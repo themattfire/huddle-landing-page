@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Huddle landing page](https://your-live-site-url.com)
+- Live Site URL: [Huddle landing page](https://themattfire.github.io/huddle-landing-page/)
 
 ## My process
 
